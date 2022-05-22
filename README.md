@@ -37,53 +37,53 @@ During our analysis, we were informed the 9th graders at Thomas High School had 
   
   ![Revised_School Summary](https://user-images.githubusercontent.com/103851131/169707100-fdb4c604-ecb5-4997-b3bb-6aeb980b5da4.png)
 
-- Replacing the ninth-grade scores affect the following:
+Replacing the ninth-grade scores affect the following:
 
-  - Math and reading scores by grade
+- Math and reading scores by grade
   
-  **Original Math Scores**
+  **Original Math Scores:**
   
   <img width="290" alt="Original_math_scores" src="https://user-images.githubusercontent.com/103851131/169719953-ece26a10-f731-446d-9a08-eca3f3509637.png">
   
-  **Revised Math Scores**
+  **Revised Math Scores:**
   
   ![Revised_math_scores](https://user-images.githubusercontent.com/103851131/169719995-807d5f3d-4cde-46df-aa94-3c96b20d2240.png)
   
-  **Original Reading Scores**
+  **Original Reading Scores:**
   
   <img width="293" alt="Original_reading_score" src="https://user-images.githubusercontent.com/103851131/169720046-1b01c659-a2ea-4f87-a641-e292e5c76354.png">
 
-  **Revised Reading Scores**
+  **Revised Reading Scores:**
   
   ![Revised_reading_score](https://user-images.githubusercontent.com/103851131/169720057-fabe19b1-91d2-4112-9f98-6df58c47256c.png)
 
-  - Scores by school spending
+- Scores by school spending
   
-  **Original Spending Summary**
+  **Original Spending Summary:**
   
   <img width="613" alt="Original_spending" src="https://user-images.githubusercontent.com/103851131/169720077-2c029a58-7675-4dfb-a6f3-827370b91010.png">
 
-  **Revised Spending Summary**
+  **Revised Spending Summary:**
   
   <img width="613" alt="Revised_spending" src="https://user-images.githubusercontent.com/103851131/169720086-480ae247-51a4-4a39-9e7f-5a00b26cf38a.png">
 
-  - Scores by school size
+- Scores by school size
   
-  **Original School Size Summary**
+  **Original School Size Summary:**
   
   <img width="613" alt="Original_size" src="https://user-images.githubusercontent.com/103851131/169720092-2db1e052-3ac9-4e93-bf61-6495f4982947.png">
 
-  **Revised School Size Summary**
+  **Revised School Size Summary:**
   
   <img width="613" alt="Revised_size" src="https://user-images.githubusercontent.com/103851131/169720100-dccac878-cf81-4a4f-b1a1-cf973b19be9d.png">
 
-  - Scores by school type
+- Scores by school type
   
-  **Original School Type Summary**
+  **Original School Type Summary:**
   
   <img width="613" alt="Original_type" src="https://user-images.githubusercontent.com/103851131/169720112-e1ea3ce6-208c-40e8-926a-b1dfba6153e6.png">
 
-  **Revised School Type Summary**
+  **Revised School Type Summary:**
   
   <img width="613" alt="Revised_type" src="https://user-images.githubusercontent.com/103851131/169720122-632b9592-6bc3-460e-9781-db90c073ebee.png">
 
