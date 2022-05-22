@@ -14,10 +14,12 @@ During our analysis, we were informed the 9th graders at Thomas High School had 
 - The revised district summary was affected in the Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing categories.
   
   **Original District Summary:**
+  
   ![Original_District_Summary](https://user-images.githubusercontent.com/103851131/169706887-76b909cd-9ca8-43d9-aa7d-8e1a168dea19.png)
 
   
   **Revised District Summary:**
+  
   ![Revised_District_Summary](https://user-images.githubusercontent.com/103851131/169706895-a266bd4a-8a0b-4258-8feb-31a5ef04537d.png)
   
   - Average Math Score decreased from 79 to 78.9
@@ -36,7 +38,9 @@ During our analysis, we were informed the 9th graders at Thomas High School had 
   ![Revised_School Summary](https://user-images.githubusercontent.com/103851131/169707100-fdb4c604-ecb5-4997-b3bb-6aeb980b5da4.png)
 
 - Replacing the ninth-grade scores affect the following:
+
   - Math and reading scores by grade
+  
   **Original Math Scores**
   
   <img width="290" alt="Original_math_scores" src="https://user-images.githubusercontent.com/103851131/169719953-ece26a10-f731-446d-9a08-eca3f3509637.png">
@@ -54,6 +58,7 @@ During our analysis, we were informed the 9th graders at Thomas High School had 
   ![Revised_reading_score](https://user-images.githubusercontent.com/103851131/169720057-fabe19b1-91d2-4112-9f98-6df58c47256c.png)
 
   - Scores by school spending
+  
   **Original Spending Summary**
   
   <img width="613" alt="Original_spending" src="https://user-images.githubusercontent.com/103851131/169720077-2c029a58-7675-4dfb-a6f3-827370b91010.png">
@@ -63,6 +68,7 @@ During our analysis, we were informed the 9th graders at Thomas High School had 
   <img width="613" alt="Revised_spending" src="https://user-images.githubusercontent.com/103851131/169720086-480ae247-51a4-4a39-9e7f-5a00b26cf38a.png">
 
   - Scores by school size
+  
   **Original School Size Summary**
   
   <img width="613" alt="Original_size" src="https://user-images.githubusercontent.com/103851131/169720092-2db1e052-3ac9-4e93-bf61-6495f4982947.png">
@@ -72,6 +78,7 @@ During our analysis, we were informed the 9th graders at Thomas High School had 
   <img width="613" alt="Revised_size" src="https://user-images.githubusercontent.com/103851131/169720100-dccac878-cf81-4a4f-b1a1-cf973b19be9d.png">
 
   - Scores by school type
+  
   **Original School Type Summary**
   
   <img width="613" alt="Original_type" src="https://user-images.githubusercontent.com/103851131/169720112-e1ea3ce6-208c-40e8-926a-b1dfba6153e6.png">
